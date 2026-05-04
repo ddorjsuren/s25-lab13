@@ -1,6 +1,6 @@
 # Stack Comparison
 
-Three viable stacks were evaluated for MarkVault.
+Three viable stacks were offered.
 
 ---
 
