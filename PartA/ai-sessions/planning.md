@@ -45,6 +45,6 @@ Condensed record of planning conversations used to produce the initial project d
 **Tool:** Claude Sonnet 4
 
 **Summary:**
-- Generated `STACK-COMPARISON.md`, `README.md` (draft), `CLAUDE.md`, and this session log.
+- Generated `STACK-COMPARISON.md`, `README.md` (draft), `CLAUDE.md`,'ARCHITECTURE.md','PROJECT.md', and this session log.
 - CLAUDE.md no-go rules were derived from common failure modes observed in AI-assisted codebases (schema mutation, localStorage misuse, `any` casting).
 - README left as outline pending screenshots and GIF walkthrough.
